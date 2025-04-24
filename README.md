@@ -19,13 +19,16 @@ This project showcases a dynamic Excel dashboard built for retail sales analysis
 | CA-2016-152156 | 11/8/2016  | 11/11/2016 | Consumer  | United States | Henderson   | Kentucky     | Furniture  | Chairs       | 731.94 | 3        | 219.58 |
 | US-2015-108966 | 10/11/2015 | 10/18/2015 | Corporate | United States | Los Angeles | California   | Technology | Phones       | 957.58 | 5        | 145.96 |
 
+- PEOPLE – Contains regional manager mapping.
+
 ### 👥 PEOPLE Table
 
-Region | Manager Name
-East | Chris Johnson
-Central | Laura Callahan
-West | Jennifer Morales
-South | Michael Brown
+| Region  | Manager Name     |
+|---------|------------------|
+| East    | Chris Johnson    |
+| Central | Laura Callahan   |
+| West    | Jennifer Morales |
+| South   | Michael Brown    |
 
 - **RETURNS** – Contains return information linked to Orders.
 
