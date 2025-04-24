@@ -22,7 +22,14 @@ This project showcases a dynamic Excel dashboard built for retail sales analysis
 
 
 - **RETURNS** – Contains return information linked to Orders.
-- **PEOPLE** – Contains details about regional managers.
+
+### 🔁 RETURNS Table
+
+Order ID | Returned
+CA-2016-152156 | Yes
+US-2015-108966 | No
+CA-2014-115812 | Yes
+
 - **KPI Table** – Custom table created to track key performance metrics.
 
 ## 📈 Solved Problem Statements
