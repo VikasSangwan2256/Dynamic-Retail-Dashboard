@@ -4,12 +4,7 @@ This project involves the creation of a dynamic retail dashboard using Microsoft
 
 The dashboard includes key performance indicators (KPls) that track important metrics such as Total Sales, Total Profit, Quantity Sold, Number of Orders, and Profit Margin. These KPis are calculated and displayed on a centralized chart to ensure easy comparison and visualization. The project covers multiple problem statements that help break down the data into actionable insights.
 
-# 🛍️ Dynamic Retail Dashboard (Excel-Based)
-
-This project showcases a dynamic Excel dashboard built for retail sales analysis. It provides insights using interactive filters, charts, and KPI indicators. The dataset includes Orders, Returns, and People, sourced from the provided Excel file.
-
 ## Sample Data Tables 
-
 
 ### 🧾 ORDERS Table
 
