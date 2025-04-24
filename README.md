@@ -46,13 +46,11 @@ The KPI table consolidates the most essential performance metrics for the retail
 
 ## 📈 Problem Statements Solved
 
-1. **KPIs** – Total Sales, Total Profit, Quantity, Number of Orders, Profit Margin.
-2.
-3. ![image](https://github.com/user-attachments/assets/61723367-563c-4e07-a729-91a0a1b3b3dc)
+  1. **KPIs** – Total Sales, Total Profit, Quantity, Number of Orders, Profit Margin.
+![image](https://github.com/user-attachments/assets/61723367-563c-4e07-a729-91a0a1b3b3dc)
 
-4. **Sales and Profit Analysis** – Overview and trends across different dimensions.
-5.
-6. ![image](https://github.com/user-attachments/assets/f883a4a2-734f-417f-bb57-39d1226ca8af)
+  2. **Sales and Profit Analysis** – Overview and trends across different dimensions.
+![image](https://github.com/user-attachments/assets/f883a4a2-734f-417f-bb57-39d1226ca8af)
 
 7. **Category-Wise Profit** – Profit generated per product category.![image](https://github.com/user-attachments/assets/52e793a1-9bb7-40e8-bee3-cbd0cd84aaf9)
 
@@ -68,9 +66,9 @@ The KPI table consolidates the most essential performance metrics for the retail
 
 Each problem statement is solved in a separate sheet under the name format **CASE 1** to **CASE 8** within the Excel file.
 
-## 📷 Dashboard Preview
+## 📷 Snapshot of the Dashboard
 
-(Include screenshots here under `/screenshots` folder if you'd like.)
+![image](https://github.com/user-attachments/assets/1c7d5f52-18d3-4b17-98d6-7dfdc8459cdd)
 
 ## 🛠️ Tools Used
 
@@ -79,14 +77,8 @@ Each problem statement is solved in a separate sheet under the name format **CAS
 - Slicers & Filters
 - Data Visualization (Bar, Line, Pie Charts)
 
-## 📌 How to Use
+## Conclusion
+This Excel dashboard project demonstrates a comprehensive analysis of retail data using structured tables, KPIs, and visual insights. By integrating key performance indicators, category-based breakdowns, segment-wise analysis, and trends over time, the dashboard offers actionable insights into business performance. Each problem statement was approached with a data-driven mindset, enabling effective decision-making across sales, profit, returns, and customer segments.
 
-1. Download the `.xlsx` file.
-2. Open with Excel (ensure Macros and Slicers are enabled if needed).
-3. Navigate through sheets from CASE 1 to CASE 8.
-4. Use filters to explore insights dynamically.
-
-## 📬 Contact
-
-For feedback or questions, feel free to reach out!
+This project showcases the power of Excel in transforming raw data into meaningful business intelligence, making it a valuable tool for analysts, managers, and stakeholders alike.
 
