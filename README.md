@@ -8,9 +8,8 @@ The dashboard includes key performance indicators (KPls) that track important me
 
 This project showcases a dynamic Excel dashboard built for retail sales analysis. It provides insights using interactive filters, charts, and KPI indicators. The dataset includes Orders, Returns, and People, sourced from the provided Excel file.
 
-## 📂 Sample Dataset Tables 
+## Sample Data Tables 
 
-- **ORDERS** – Contains order-wise details (Sales, Quantity, Profit, etc.)
 
 ### 🧾 ORDERS Table
 
