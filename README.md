@@ -11,11 +11,10 @@ This project showcases a dynamic Excel dashboard built for retail sales analysis
 ## 📂 Sample Dataset Tables 
 
 - **ORDERS** – Contains order-wise details (Sales, Quantity, Profit, etc.)
--| Order ID       | Order Date | Ship Date  | Segment   | Country       | City        | State        | Category   | Sub-Category | Sales  | Quantity | Profit |
-|----------------|------------|------------|-----------|---------------|-------------|--------------|------------|--------------|--------|----------|--------|
-| CA-2016-152156 | 11/8/2016  | 11/11/2016 | Consumer  | United States | Henderson   | Kentucky     | Furniture  | Bookcases    | 261.96 | 2        | 41.91  |
-| CA-2016-152156 | 11/8/2016  | 11/11/2016 | Consumer  | United States | Henderson   | Kentucky     | Furniture  | Chairs       | 731.94 | 3        | 219.58 |
-| US-2015-108966 | 10/11/2015 | 10/18/2015 | Corporate | United States | Los Angeles | California   | Technology | Phones       | 957.58 | 5        | 145.96 |
+- Order ID | Order Date | Ship Date | Segment | Country | City | State | Category | Sub-Category | Sales | Quantity | Profit
+CA-2016-152156 | 11/8/2016 | 11/11/2016 | Consumer | United States | Henderson | Kentucky | Furniture | Bookcases | 261.96 | 2 | 41.91
+CA-2016-152156 | 11/8/2016 | 11/11/2016 | Consumer | United States | Henderson | Kentucky | Furniture | Chairs | 731.94 | 3 | 219.58
+US-2015-108966 | 10/11/2015 | 10/18/2015 | Corporate | United States | Los Angeles | California | Technology | Phones | 957.58 | 5 | 145.96
 
 
 - **RETURNS** – Contains return information linked to Orders.
