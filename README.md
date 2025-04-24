@@ -72,7 +72,11 @@ The KPI table consolidates the most essential performance metrics for the retail
 
 Each problem statement is solved in a separate sheet under the name format **CASE 1** to **CASE 8** within the Excel file.
 
-## 📷 Snapshot of the Dashboard
+## Visuals
+This repository includes:
+
+Visual examples for each solved problem statement.
+Snapshots of the final dashboard with all components.
 
 ![image](https://github.com/user-attachments/assets/1c7d5f52-18d3-4b17-98d6-7dfdc8459cdd)
 
