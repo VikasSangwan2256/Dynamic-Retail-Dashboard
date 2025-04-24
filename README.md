@@ -18,7 +18,7 @@ This project showcases a dynamic Excel dashboard built for retail sales analysis
 ## 📈 Solved Problem Statements
 
 1. **KPIs** – Total Sales, Total Profit, Quantity, Number of Orders, Profit Margin.
-   ![image](https://github.com/user-attachments/assets/61723367-563c-4e07-a729-91a0a1b3b3dc)
+![image](https://github.com/user-attachments/assets/61723367-563c-4e07-a729-91a0a1b3b3dc)
 
 2. **Sales and Profit Analysis** – Overview and trends across different dimensions.
    ![image](https://github.com/user-attachments/assets/f883a4a2-734f-417f-bb57-39d1226ca8af)
