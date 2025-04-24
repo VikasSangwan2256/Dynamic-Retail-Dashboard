@@ -46,21 +46,25 @@ The KPI table consolidates the most essential performance metrics for the retail
 
 ## 📈 Problem Statements Solved
 
-1. **KPIs** – Total Sales, Total Profit, Quantity, Number of Orders, Profit Margin.![image](https://github.com/user-attachments/assets/61723367-563c-4e07-a729-91a0a1b3b3dc)
+1. **KPIs** – Total Sales, Total Profit, Quantity, Number of Orders, Profit Margin.
+2.
+3. ![image](https://github.com/user-attachments/assets/61723367-563c-4e07-a729-91a0a1b3b3dc)
 
-2. **Sales and Profit Analysis** – Overview and trends across different dimensions. ![image](https://github.com/user-attachments/assets/f883a4a2-734f-417f-bb57-39d1226ca8af)
+4. **Sales and Profit Analysis** – Overview and trends across different dimensions.
+5.
+6. ![image](https://github.com/user-attachments/assets/f883a4a2-734f-417f-bb57-39d1226ca8af)
 
-3. **Category-Wise Profit** – Profit generated per product category.![image](https://github.com/user-attachments/assets/52e793a1-9bb7-40e8-bee3-cbd0cd84aaf9)
+7. **Category-Wise Profit** – Profit generated per product category.![image](https://github.com/user-attachments/assets/52e793a1-9bb7-40e8-bee3-cbd0cd84aaf9)
 
-4. **Segment-Wise Sales Share %** – Sales distribution across segments.![image](https://github.com/user-attachments/assets/0ee784ea-e142-4798-82d4-35788c01fbbb)
+8. **Segment-Wise Sales Share %** – Sales distribution across segments.![image](https://github.com/user-attachments/assets/0ee784ea-e142-4798-82d4-35788c01fbbb)
 
-5. **Sales by Country** – Geographic analysis of sales.![image](https://github.com/user-attachments/assets/8e050301-d1a7-4ad7-a262-23bc1c1a0e3f)
+9. **Sales by Country** – Geographic analysis of sales.![image](https://github.com/user-attachments/assets/8e050301-d1a7-4ad7-a262-23bc1c1a0e3f)
 
-6. **Top 5 Subcategories** – Based on Sales or Profit.![image](https://github.com/user-attachments/assets/544aabda-796a-48eb-89a2-f0cf223ab8f5)
+10. **Top 5 Subcategories** – Based on Sales or Profit.![image](https://github.com/user-attachments/assets/544aabda-796a-48eb-89a2-f0cf223ab8f5)
 
-7. **Bottom 5 Subcategories** – Based on Sales or Profit.![image](https://github.com/user-attachments/assets/2c276104-c34e-4f38-9130-45b2f4625ca3)
+11. **Bottom 5 Subcategories** – Based on Sales or Profit.![image](https://github.com/user-attachments/assets/2c276104-c34e-4f38-9130-45b2f4625ca3)
 
-8. **Yearly Sales Trend** – Sales trends over the years.![image](https://github.com/user-attachments/assets/7b850b37-636a-47fb-8fcf-4a7e03b26252)
+12. **Yearly Sales Trend** – Sales trends over the years.![image](https://github.com/user-attachments/assets/7b850b37-636a-47fb-8fcf-4a7e03b26252)
 
 Each problem statement is solved in a separate sheet under the name format **CASE 1** to **CASE 8** within the Excel file.
 
